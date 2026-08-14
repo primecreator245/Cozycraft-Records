@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {"layer0": "cozycraft_records:item/warm_overworld"}
+}

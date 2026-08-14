@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="cozycraft_records"
+version="1.0.1"
+displayName="Cozycraft Records"
+description='''Cozy Minecraft-style music discs and custom jukebox songs.'''
+
+[[dependencies.cozycraft_records]]
+modId="neoforge"
+type="required"
+versionRange="[26.2,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.cozycraft_records]]
+modId="minecraft"
+type="required"
+versionRange="[26.2,26.3)"
+ordering="NONE"
+side="BOTH"
