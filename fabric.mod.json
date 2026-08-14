@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "cozycraft_records",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "name": "Cozycraft Records",
   "description": "Cozy Minecraft-style music discs and custom jukebox songs.",
   "environment": "*",
