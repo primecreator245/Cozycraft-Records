@@ -1,13 +1,15 @@
 {
   "schemaVersion": 1,
   "id": "cozycraft_records",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "name": "Cozycraft Records",
   "description": "Cozy Minecraft-style music discs and custom jukebox songs.",
   "environment": "*",
   "entrypoints": {
     "main": [
-      {"value": "cozycraft.FabricBootstrap::init"}
+      {
+        "value": "cozycraft.FabricBootstrap::init"
+      }
     ]
   },
   "depends": {
