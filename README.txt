@@ -11,4 +11,4 @@ Commands:
 
 The supplied stereo OGG files were converted to mono Vorbis, as Minecraft's custom-sound documentation recommends.
 
-Version 1.0.2: adds Warm Overworld, Echoes Below, and Around the Campfire to the vanilla Ingredients creative tab on Fabric and NeoForge 26.2.
+Version 1.0.4: adds Warm Overworld, Echoes Below, and Around the Campfire to the vanilla Ingredients creative tab on Fabric and NeoForge 26.2.
